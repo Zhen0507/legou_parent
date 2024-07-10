@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-common/legou-common.iml" filepath="$PROJECT_DIR$/legou-common/legou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-core/legou-core.iml" filepath="$PROJECT_DIR$/legou-core/legou-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-item/legou-item.iml" filepath="$PROJECT_DIR$/legou-item/legou-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-item/legou-item-interface/legou-item-interface.iml" filepath="$PROJECT_DIR$/legou-item/legou-item-interface/legou-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-item/legou-item-service/legou-item-service.iml" filepath="$PROJECT_DIR$/legou-item/legou-item-service/legou-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-upload/legou-upload.iml" filepath="$PROJECT_DIR$/legou-upload/legou-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+    </modules>
+  </component>
+</project>
